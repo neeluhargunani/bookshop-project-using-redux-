@@ -1,0 +1,73 @@
+.mt-greet{
+    margin-top:2rem;
+   
+}
+.mt-greet.card {
+    
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px solid rgba(148, 93, 93, 0.125);
+    background-color: #fff;
+    box-shadow: 0px 2px 7px -1px rgb(0 0 0 / 61%);
+    -webkit-box-shadow: 0px 2px 7px -1px rgb(0 0 0 / 61%);
+    -moz-box-shadow: 0px 2px 7px -1px rgb(0 0 0 / 61%);
+   
+}
+.input-group-text {
+   
+    background-color: #17a2b8;
+    border: 1px solid #ced4da;
+  
+}
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #ffffff;
+    border-color: #037a7c7a;
+    
+}
+.listbrdr{
+    margin-top:2rem;
+
+}
+.listbrdr.card {
+  
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px solid rgba(148, 93, 93, 0.125);
+    background-color: #fff;
+    box-shadow: 0px 2px 7px -1px rgb(0 0 0 / 61%);
+    -webkit-box-shadow: 0px 2px 7px -1px rgb(0 0 0 / 61%);
+    -moz-box-shadow: 0px 2px 7px -1px rgb(0 0 0 / 61%);
+   
+}
+
+.listbrdr .card-body {
+    padding: 1rem;
+}
+.listbrdr.list-group-item-action {
+    
+        color: #40a5a7;}
+        .listbrdr .list-group-item-action:hover {
+                   background-color:#fff0;
+            color: #040c0c;}
+.listbrdr .list-group-item {
+            position: relative;
+            display: block;
+            padding: .3rem 0.50rem;
+            background-color: #fff;
+            border: 0px solid rgba(0,0,0,.125);
+        }
+        .table-dark tbody+tbody, .table-dark td, .table-dark th, .table-dark thead th {
+         
+            padding-top: 21px;
+          
+        }
+        .bg-dark {
+            background-color: #3e444ae6!important;
+        }
+        .copyrights {
+            text-align: center;
+            padding: 1em 0em;
+            background: #1f1f1f;
+        }
